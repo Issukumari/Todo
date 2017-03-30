@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@drawable/w"
+    android:orientation="vertical"
+    tools:context=".ui.LoginActivity">
+
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/imagelogin"
+        android:layout_width="110dp"
+        android:layout_height="97dp"
+        android:layout_marginLeft="120dp"
+        android:background="@drawable/todoist"/>
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/textviewEmaillogin"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:text="Email"
+        android:textColor="#FF4081"
+        android:textSize="20dp"/>
+
+    <android.support.v7.widget.AppCompatEditText
+        android:id="@+id/editTextEmaillogin"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:textColor="#000000"
+        android:layout_margin="5dp"
+        android:background="#ffffff" />
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/textviewPasswprdlogin"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:text="password"
+        android:textColor="#FF4081"
+        android:textSize="20dp"/>
+
+    <android.support.v7.widget.AppCompatEditText
+        android:id="@+id/editTextPasswordlogin"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:inputType="textPassword"
+        android:textColor="#000000"
+        android:layout_margin="5dp"
+        android:background="#ffffff" />
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/textviewforgotpwdlogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/forgot_pwd"
+        android:textColor="#FF4081"
+        android:textSize="20dp"/>
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/buttonLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="120dp"
+        android:text="Login "
+        android:textColor="#FF4081"
+        android:textSize="20dp"
+        android:background="#ffffff" />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/buttonCreateAccount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Create_account"
+        android:textSize="20dp"
+        android:layout_marginLeft="90dp"/>
+
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/facebook"
+        android:layout_width="wrap_content"
+        android:layout_height="64dp"
+        android:layout_marginLeft="20dp"
+        android:background="@drawable/facebook"/>
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/google"
+        android:layout_width="wrap_content"
+        android:layout_height="43dp"
+        android:background="@drawable/goog"
+        android:layout_marginLeft="20dp"/>
+
+
+
+
+
+
+</LinearLayout>

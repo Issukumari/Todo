@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="forgot_pwd">forgot_pwd</string>
+    <string name="login_successfull">Login Successfully</string>
+</resources>
