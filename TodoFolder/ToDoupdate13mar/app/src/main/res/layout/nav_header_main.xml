@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="#008000"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+        <android.support.v7.widget.AppCompatImageView
+            android:id="@+id/img_profile"
+            android:layout_width="@dimen/profile_width"
+            android:layout_height="@dimen/profile_height"
+            android:layout_marginTop="@dimen/dimen_30dp"
+            android:paddingTop="@dimen/nav_header_vertical_spacing"
+            android:background="@drawable/bg_circle"/>
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:text="TodoApp"
+            android:textColor="@color/colorPrimary"
+            android:textSize="@dimen/dimen_20dp"
+            android:layout_height="wrap_content"
+            android:paddingTop="@dimen/nav_header_vertical_spacing"/>
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/website"
+            android:textColor="@color/colorPrimary"
+
+            android:text="jjkjkhjk"
+            android:layout_marginTop="@dimen/dimen_10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.05" />
+
+</LinearLayout>
