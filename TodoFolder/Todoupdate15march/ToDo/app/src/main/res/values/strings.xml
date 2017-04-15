@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="forgot_pwd">forgot_pwd</string>
+    <string name="login_successfull">Login Successfully</string>
+    <string name="show_as_view">text_changeView</string>
+    <string name="text_settings">text_settings</string>
+    <string name="text_skip">text_skip</string>
+    <string name="details">"enter your details or create Account"</string>
+    <string name="password">"invalid Password"</string>
+    <string name="registration_successful">"RegisterActivity Successful"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Email_should_not_empty">Email_should_not_empty</string>
+    <string name="invalid_Emailid">invalid_Emailid</string>
+    <string name="Password_should_not_empty">Password_should_not_empty</string>
+    <string name="name_should_not_empty">name_should_not_empty</string>
+    <string name="email_should_not_empty">email_should_not_empty</string>
+    <string name="invalid_Email">invalid_Email</string>
+    <string name="password_should_not_empty">password_should_not_empty</string>
+    <string name="password_should_be_minimum_5_character">password_should_be_minimum_5_character</string>
+    <string name="wrong_format_of_password">wrong_format_of_password</string>
+    <string name="navigation_drawer_closeClose">navigation_drawer_closeClose</string>
+    <string name="mobile_no_should_not_be_empty">mobile_no_should_not_be_empty</string>
+    <string name="mobile_no_should_be_10_digit">mobile_no_should_be_10_digit</string>
+    <string name="Emailid_should_not_empty">Emailid_should_not_empty</string>
+    <string name="Address_should_not_empty">Address_should_not_empty</string>
+    <string name="Open_navigation_drawer">Open_navigation_drawer</string>
+    <string name="navigation_drawer_close">navigation_drawer_close</string>
+    <string name="action_mark_all_read">action_mark_all_read</string>
+    <string name="action_clear_all">action_clear_all</string>
+    <string name="Notes">Notes</string>
+    <string name="Reminders">Reminders</string>
+    <string name="Createnewlabel">Createnewlabel</string>
+    <string name="Archive">Archive</string>
+    <string name="Deleted">Deleted</string>
+    <string name="Settings">Settings</string>
+    <string name="Logout">Logout</string>
+</resources>
