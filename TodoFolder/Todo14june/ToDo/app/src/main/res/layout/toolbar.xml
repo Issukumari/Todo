@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/layout_update_color"
+    android:layout_height="match_parent"
+    android:transitionName="transition"
+    android:background="#FFFF"
+    android:orientation="vertical"
+    android:clickable="true"
+    android:weightSum="1">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:orientation="horizontal"
+        >
+        <android.support.v7.widget.AppCompatImageButton
+            android:layout_width="18dp"
+            android:layout_marginTop="3dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="@dimen/dimen_10dp"
+            android:id="@+id/back_button"
+            android:background="@drawable/backbutton" />
+    </LinearLayout>
+    <android.support.v7.widget.AppCompatEditText
+        android:id="@+id/fragmentlistview_TitleEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_20dp"
+        android:textColor="#ff00"
+        android:textSize="@dimen/dimen_20dp"
+        android:textStyle="italic" />
+    <android.support.v7.widget.AppCompatEditText
+        android:id="@+id/fragmentlistview_DescriptionEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dimen_20dp"
+        android:textColor="#ff00"
+        android:textSize="@dimen/dimen_20dp"
+        android:textStyle="italic" />
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/reminderdate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dimen_5dp"
+        android:layout_marginBottom="@dimen/dimen_10dp"
+        android:hint="reminderdate"
+        android:padding="@dimen/dimen_10dp"
+        android:textColor="#000000"
+        android:textColorHint="#FF4081" />
+
+
+</LinearLayout>
