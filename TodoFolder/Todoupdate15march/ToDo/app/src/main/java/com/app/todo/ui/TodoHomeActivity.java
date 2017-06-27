@@ -14,21 +14,20 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
-import com.app.todo.database.NoteDatabase;
-import com.app.todo.Fragment.Fragmentlistviewdetails;
-import com.app.todo.Fragment.NotesFragment;
-import com.app.todo.Fragment.ReminderFragment;
-import com.app.todo.Fragment.TodoNoteaddFragment;
+
 import com.app.todo.R;
 import com.app.todo.adapter.RecyclerAdapter;
 import com.app.todo.base.BaseActivity;
+import com.app.todo.database.NoteDatabase;
+import com.app.todo.fragment.Fragmentlistviewdetails;
+import com.app.todo.fragment.TodoNoteaddFragment;
 import com.app.todo.model.DataModel;
 
 import java.util.ArrayList;
 import java.util.List;
 
 
-public class TodoHomeActivity extends BaseActivity implements View.OnClickListener, NavigationView.OnNavigationItemSelectedListener, CallBackitem {
+public class TodoHomeActivity extends BaseActivity implements View.OnClickListener, NavigationView.OnNavigationItemSelectedListener, CallBackItemInterface {
 
     public FloatingActionButton fab;
     RecyclerView.LayoutManager layoutManager;
@@ -150,17 +149,16 @@ public class TodoHomeActivity extends BaseActivity implements View.OnClickListen
         ArrayList<DataModel> temp = new ArrayList<>();
         if (itemId == R.id.nav_Notes) {
             temp = getData(true);
-            recyclerAdapter = new RecyclerAdapter(this, temp,this);
+            recyclerAdapter = new RecyclerAdapter(this, temp, this);
             recyclerView.setAdapter(recyclerAdapter);
             toolbar.setTitle("Notes");
         } else if (itemId == R.id.nav_Reminders) {
             temp = getData(false);
-            recyclerAdapter = new RecyclerAdapter(this, temp,this);
+            recyclerAdapter = new RecyclerAdapter(this, temp, this);
             recyclerView.setAdapter(recyclerAdapter);
             toolbar.setTitle("Reminder");
-        }
-        else if(itemId==R.id.Logout){
-            Intent intent=new Intent(TodoHomeActivity.this,LoginActivity.class);
+        } else if (itemId == R.id.Logout) {
+            Intent intent = new Intent(TodoHomeActivity.this, LoginActivity.class);
             startActivity(intent);
         }
         return false;
@@ -188,8 +186,6 @@ public class TodoHomeActivity extends BaseActivity implements View.OnClickListen
         return temp;
     }
 
-
-
     @Override
     public void onItemClick(DataModel dataModel) {
         Fragmentlistviewdetails fragmentlistview = new Fragmentlistviewdetails(this);
@@ -198,5 +194,10 @@ public class TodoHomeActivity extends BaseActivity implements View.OnClickListen
         bundle.putString("Desriptiontext", dataModel.getDescription());
         fragmentlistview.setArguments(bundle);
         getFragmentManager().beginTransaction().replace(R.id.frame, fragmentlistview).addToBackStack(null).commit();
+    }
+
+    @Override
+    public void onBackPressed() {
+        super.onBackPressed();
     }
 }

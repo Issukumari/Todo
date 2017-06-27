@@ -47,9 +47,8 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener 
 
         } else {
             new AlertDialog.Builder(this)
-                    .setTitle("connection is loose")
-                    .setMessage(" May be your internet connection is off. Please turn it on " +
-                            " and try again ")
+                    .setTitle(Constants.setTitle)
+                    .setMessage(Constants.setMessage)
                     .setPositiveButton(android.R.string.ok, new DialogInterface.OnClickListener() {
                         public void onClick(DialogInterface dialog, int which) {
                         }
@@ -118,7 +117,7 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener 
             return;
         } else if (matcher.matches()) {
         } else {
-            editTextPasswordLogin.setError("invalid Password");
+            editTextPasswordLogin.setError(getString(R.string.invalid_Password));
             editTextPasswordLogin.requestFocus();
         }
 
@@ -127,8 +126,8 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener 
             public void onComplete(@NonNull Task<AuthResult> task) {
                 progressDialog.dismiss();
                 if (task.isSuccessful()) {
-                    finish();
                     startActivity(new Intent(getApplicationContext(), TodoHomeActivity.class));
+                    finish();
                 }
             }
         });

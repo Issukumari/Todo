@@ -80,18 +80,18 @@ public class RegisterationActivity extends BaseActivity implements View.OnClickL
         final String addressResgistration = editTextAddressRegisteration.getText().toString();
         mMatcher = mPattern.matcher(editTextPwdRegisteration.getText().toString());
         Bundle args = new Bundle();
-        args.putString("Email", dataModel.getEmailRegistration());
-        args.putString("password", dataModel.getPasswordRegistration());
-        args.putString("Name", dataModel.getNameRegistration());
-        args.putString("Mobile", dataModel.getMobileRegistration());
-        args.putString("address", dataModel.getaddressResgistration());
+        args.putString(Constants.Email, dataModel.getEmailRegistration());
+        args.putString(Constants.password, dataModel.getPasswordRegistration());
+        args.putString(Constants.Name, dataModel.getNameRegistration());
+        args.putString(Constants.Mobile, dataModel.getMobileRegistration());
+        args.putString(Constants.address, dataModel.getaddressResgistration());
         if (NameRegistration.isEmpty()) {
-            editTextNameRegisteration.setError(getString(R.string.name_should_not_empty));
+            editTextNameRegisteration.setError(getString(R.string.name_should_not_be_empty));
 
             return;
         }
         if (EmailRegistration.isEmpty()) {
-            editTextEmailRegisteration.setError(getString(R.string.Emailid_should_not_empty));
+            editTextEmailRegisteration.setError(getString(R.string.Emailid_should_not_be_empty));
 
             return;
 
@@ -101,8 +101,8 @@ public class RegisterationActivity extends BaseActivity implements View.OnClickL
         if (PasswordRegistration.isEmpty()) {
             editTextPwdRegisteration.setError(getString(R.string.password_should_not_empty));
             return;
-        } else if (PasswordRegistration.length() < 5) {
-            editTextPwdRegisteration.setError(getString(R.string.password_should_be_minimum_5_character));
+        } else if (PasswordRegistration.length() < 8) {
+            editTextPwdRegisteration.setError(getString(R.string.password_should_be_minimum_8_character));
             return;
 
         } else if (mMatcher.matches()) {
@@ -118,7 +118,7 @@ public class RegisterationActivity extends BaseActivity implements View.OnClickL
 
         }
         if (addressResgistration.isEmpty()) {
-            editTextAddressRegisteration.setError(getString(R.string.Address_should_not_empty));
+            editTextAddressRegisteration.setError(getString(R.string.Address_should_not_be_empty));
         }
         progressDialog.setMessage("please wait");
         progressDialog.show();
@@ -134,8 +134,8 @@ public class RegisterationActivity extends BaseActivity implements View.OnClickL
                     dataModel.setaddressResgistration(addressResgistration);
                     String id = mfirebasedatabase.push().getKey();
                     mfirebasedatabase.child(id).setValue(dataModel);
-                    finish();
                     startActivity(new Intent(getApplicationContext(), LoginActivity.class));
+                    finish();
                 } else {
                     Toast.makeText(RegisterationActivity.this, "register while error", Toast.LENGTH_SHORT).show();
                 }

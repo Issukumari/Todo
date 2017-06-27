@@ -8,9 +8,11 @@ import android.support.v7.app.AppCompatActivity;
 
 import com.app.todo.R;
 import com.app.todo.utils.Constants;
+import com.google.firebase.database.FirebaseDatabase;
 
 public class SplashActivity extends AppCompatActivity {
     private static final String TAG = "SplashActivity";
+    FirebaseDatabase mfirebasedatabase;
 
     SharedPreferences sharedPreferences;
     boolean isLogin;

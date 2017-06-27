@@ -7,14 +7,10 @@ public class DataModel {
     public DataModel(String Title, String Description) {
         this.Title = Title;
         this.Description = Description;
-
     }
-
     public DataModel() {
 
     }
-
-
     public String getTitle() {
 
         return Title;

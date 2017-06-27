@@ -8,7 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.app.todo.Fragment.NotesFragment;
+import com.app.todo.fragment.NotesFragment;
 import com.app.todo.R;
 import com.app.todo.model.DataModel;
 

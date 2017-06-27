@@ -10,19 +10,17 @@ import android.view.ViewGroup;
 
 import com.app.todo.R;
 import com.app.todo.model.DataModel;
-import com.app.todo.ui.CallBackitem;
-import com.app.todo.ui.TodoHomeActivity;
+import com.app.todo.ui.CallBackItemInterface;
 
-import java.util.ArrayList;
 import java.util.List;
 
 
 public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHolder> implements View.OnClickListener {
-    CallBackitem callback;
+    CallBackItemInterface callback;
     Context context;
     List<DataModel> datamodels;
 
-    public RecyclerAdapter(Context context, List<DataModel> data, CallBackitem callback) {
+    public RecyclerAdapter(Context context, List<DataModel> data, CallBackItemInterface callback) {
         this.context = context;
         this.datamodels = data;
         this.callback = callback;
@@ -79,13 +77,6 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
             view.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
-                   /* Intent intent = new Intent(itemView.getContext(), NoteActivity.class);
-                    Bundle bundle = new Bundle();
-                    bundle.putString("text", card_textView.getText().toString());
-                    intent.putExtra("name", bundle);
-                    itemView.getContext().startActivity(intent);
-*/
-
 
                 }
             });

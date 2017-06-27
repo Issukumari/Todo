@@ -34,5 +34,11 @@
     <string name="Archive">Archive</string>
     <string name="Deleted">Deleted</string>
     <string name="Settings">Settings</string>
+    <string name="invalid_password">invalid_password</string>
     <string name="Logout">Logout</string>
+    <string name="invalid_Password">invalid_Password</string>
+    <string name="password_should_be_minimum_8_character">password_should_be_minimum_8_character</string>
+    <string name="name_should_not_be_empty">name_should_not_be_empty</string>
+    <string name="Emailid_should_not_be_empty">Emailid_should_not_be_empty</string>
+    <string name="Address_should_not_be_empty">Address_should_not_be_empty</string>
 </resources>

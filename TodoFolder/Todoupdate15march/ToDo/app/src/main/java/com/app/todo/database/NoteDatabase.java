@@ -8,32 +8,28 @@ import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
 
 import com.app.todo.model.DataModel;
+import com.app.todo.utils.Constants;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class NoteDatabase extends SQLiteOpenHelper {
-    public static final int DATABASE_VERSION = 1;
-    public static final String DATABASE_NAME = "TodoHome";
-    private static final String TABLE_Addnote = "Addnotes";
-    private static final String Description = "Description";
-    private static String Title = "Title";
 
     public NoteDatabase(Context context) {
-        super(context, DATABASE_NAME, null, DATABASE_VERSION);
+        super(context, Constants.DATABASE_NAME, null,Constants.DATABASE_VERSION);
     }
 
 
     @Override
     public void onCreate(SQLiteDatabase sqLiteDatabase) {
-        String Todo_Addnote_TABLE = "CREATE TABLE " + TABLE_Addnote + "("
-                + Title + " text," + Description + " text" + ")";
+        String Todo_Addnote_TABLE = "CREATE TABLE " + Constants.TABLE_Addnote + "("
+                + Constants.Title + " text," + Constants.Description + " text" + ")";
         sqLiteDatabase.execSQL(Todo_Addnote_TABLE);
     }
 
     @Override
     public void onUpgrade(SQLiteDatabase sqLiteDatabase, int i, int i1) {
-        sqLiteDatabase.execSQL("DROP TABLE IF EXISTS " + TABLE_Addnote);
+        sqLiteDatabase.execSQL("DROP TABLE IF EXISTS " + Constants.TABLE_Addnote);
         onCreate(sqLiteDatabase);
 
     }
@@ -42,9 +38,9 @@ public class NoteDatabase extends SQLiteOpenHelper {
         Log.i("", "addItem: ");
         SQLiteDatabase database = this.getWritableDatabase();
         ContentValues values = new ContentValues();
-        values.put(Title, model.getTitle());
-        values.put(Description, model.getDescription());
-        database.insert(TABLE_Addnote, null, values);
+        values.put(Constants.Title, model.getTitle());
+        values.put(Constants.Description, model.getDescription());
+        database.insert(Constants.TABLE_Addnote, null, values);
         database.close();
 
     }
@@ -52,16 +48,16 @@ public class NoteDatabase extends SQLiteOpenHelper {
     public int updateItem(DataModel model) {
         SQLiteDatabase database = this.getWritableDatabase();
         ContentValues values = new ContentValues();
-        values.put(Title, model.getTitle());
-        values.put(Description, model.getDescription());
-        return database.update(TABLE_Addnote, values, Title + " = ?",
+        values.put(Constants.Title, model.getTitle());
+        values.put(Constants.Description, model.getDescription());
+        return database.update(Constants.TABLE_Addnote, values, Constants.Title + " = ?",
                 new String[]{model.getTitle()});
     }
 
 
     public DataModel getNotes(String title) {
         SQLiteDatabase db = this.getReadableDatabase();
-        Cursor cursor = db.query(TABLE_Addnote, new String[]{Title, Description}, Title = "?", new String[]{title}, null, null, null, null);
+        Cursor cursor = db.query(Constants.TABLE_Addnote, new String[]{Constants.Title, Constants.Description}, Constants.Title = "?", new String[]{title}, null, null, null, null);
         if (cursor != null)
             cursor.moveToFirst();
         DataModel model = new DataModel(cursor.getString(0), cursor.getString(1));
@@ -70,7 +66,7 @@ public class NoteDatabase extends SQLiteOpenHelper {
 
     public List<DataModel> getNote() {
         List<DataModel> dataModels = new ArrayList<>();
-        String selectQuery = "SELECT  * FROM " + TABLE_Addnote;
+        String selectQuery = "SELECT  * FROM " +Constants.TABLE_Addnote;
         SQLiteDatabase database = this.getWritableDatabase();
         Cursor cursor = database.rawQuery(selectQuery, null);
         if (cursor.moveToFirst()) {
@@ -87,7 +83,7 @@ public class NoteDatabase extends SQLiteOpenHelper {
 
     public void removeItem(DataModel model) {
         SQLiteDatabase database = this.getWritableDatabase();
-        database.delete(TABLE_Addnote, Title + " =?", new String[]{model.getTitle()});
+        database.delete(Constants.TABLE_Addnote, Constants.Title + " =?", new String[]{model.getTitle()});
         database.close();
     }
 }
