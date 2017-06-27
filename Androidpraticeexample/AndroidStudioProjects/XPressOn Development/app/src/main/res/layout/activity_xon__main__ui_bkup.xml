@@ -1,0 +1,103 @@
+<RelativeLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+   android:id="@+id/layout_root"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="@drawable/pixel_gradient" android:tileMode="repeat"
+>
+
+   <ImageView 
+      android:id="@+id/logo_icon" 
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_alignParentTop="true"
+      android:layout_centerHorizontal="true"
+      android:layout_marginTop="30dip"
+      android:src="@drawable/xon_main_logo"
+      android:contentDescription="@string/Logo"
+   />
+    
+	<RelativeLayout 
+	   xmlns:android="http://schemas.android.com/apk/res/android"
+	   xmlns:tools="http://schemas.android.com/tools"
+      android:id="@+id/xon_logo_icon_layout" 
+      android:layout_centerHorizontal="true"
+      android:layout_centerVertical="true"
+	   android:layout_width="match_parent"
+	   android:layout_height="wrap_content"
+      android:layout_marginTop="10dip"
+	   style="@style/XONLogoBackground"
+	>
+	   <ImageView 
+	      android:id="@+id/xon_logo_icon" 
+	      android:layout_width="wrap_content"
+	      android:layout_height="wrap_content"
+	      android:layout_centerHorizontal="true"
+	      android:layout_centerVertical="true"
+	      android:src="@drawable/xon_main_page_logo"
+         android:paddingTop="10dip"
+         android:paddingBottom="10dip"
+	      android:contentDescription="@string/Logo"
+	   />
+	</RelativeLayout>
+   
+   <TextView
+      android:id="@+id/dummy_text" 
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_centerHorizontal="true"
+      android:layout_alignParentBottom="true"
+      android:layout_marginBottom="10dip"
+      tools:context=".XON_Main_UI" 
+   />
+
+   <Button
+      android:id="@+id/gallery_btn" 
+      style="@style/XONButton"
+      android:layout_toLeftOf="@id/dummy_text"
+      android:layout_above="@id/dummy_text"
+      android:layout_marginRight="5dip"
+      android:layout_marginBottom="60dip"
+      android:drawableTop="@drawable/gallery"
+      android:text="@string/gallery"
+      tools:context=".XON_Main_UI"       
+   />
+ 
+   <Button
+      android:id="@+id/myXON_btn" 
+      style="@style/XONButton"
+      android:layout_toLeftOf="@id/gallery_btn"
+      android:layout_above="@id/dummy_text"
+      android:layout_marginRight="10dip"
+      android:layout_marginBottom="15dip"
+      android:drawableTop="@drawable/my_gallery"
+      android:text="@string/myXON"
+      tools:context=".XON_Main_UI" 
+   />
+   
+   <Button
+      android:id="@+id/camera_btn" 
+      style="@style/XONButton"
+      android:layout_toRightOf="@id/dummy_text"
+      android:layout_above="@id/dummy_text"
+      android:layout_marginLeft="5dip"
+      android:layout_marginBottom="60dip"
+      android:drawableTop="@drawable/camera"
+      android:text="@string/camera"
+      tools:context=".XON_Main_UI" 
+   />
+      
+   <Button
+      android:id="@+id/create_btn" 
+      style="@style/XONButton"
+      android:layout_toRightOf="@id/camera_btn"
+      android:layout_above="@id/dummy_text"
+      android:layout_marginLeft="10dip"
+      android:layout_marginBottom="15dip"
+      android:drawableTop="@drawable/create"
+      android:text="@string/createXON"
+      tools:context=".XON_Main_UI" 
+   />
+   
+</RelativeLayout>

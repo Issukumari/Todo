@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Attendence</string>
+    <string name="enter_number">Enter MobileNumber</string>
+    <string name="submit">Submit</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RecyclerTest</string>
+    <string name="text_changeView">text_changeView</string>
+    <string name="text_settings">text_settings</string>
+    <string name="text_skip">text_skip</string>
+</resources>

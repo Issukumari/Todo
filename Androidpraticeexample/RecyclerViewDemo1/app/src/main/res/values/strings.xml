@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo1</string>
+    <string name="action_add_favourite">action_add_favourite</string>
+    <string name="action_play_next">action_play_next</string>
+</resources>

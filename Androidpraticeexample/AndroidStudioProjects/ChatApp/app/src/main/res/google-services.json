@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "659558660127",
+    "project_id": "chatapp-1f0f6"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659558660127:android:f36173e948059ccb",
+        "android_client_info": {
+          "package_name": "gcm.play.android.samples.com.gcmquickstart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2QoXpYGYHJXcV9fY2uEbluF6mMZLFdZ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

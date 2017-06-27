@@ -1,0 +1,59 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.xpresson.android"
+    android:versionCode="19"
+    android:versionName="1.1.19" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <uses-permission android:name="android.permission.CAMERA" 
+                     android:required="false"/>
+    <uses-permission android:name="android.permission.INTERNET" 
+                     android:required="false"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" 
+                     android:required="false"/>
+    
+
+    <application
+        android:largeHeap="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.NoTitleBar" >
+        <activity
+           android:name=".XON_Main_UI"
+           android:label="@string/title_activity_xon__main__ui"
+           android:screenOrientation="nosensor" >
+           <intent-filter>
+               <action android:name="android.intent.action.MAIN" />
+               <category android:name="android.intent.category.LAUNCHER" />
+           </intent-filter>
+        </activity>
+        <activity
+           android:name=".XON_IM_UI"
+           android:screenOrientation="nosensor" 
+           android:label="@string/title_activity_xon__im__ui" >
+        </activity>
+        <activity
+           android:name=".XONImageCropActivity"
+           android:screenOrientation="nosensor" 
+           android:label="@string/title_activity_xon_crop" >
+        </activity>
+        <activity
+           android:name=".XONFullImageActivity"
+           android:label="@string/app_name"
+           android:parentActivityName=".XONImageGridActivity"
+           android:screenOrientation="nosensor" 
+           android:theme="@style/AppTheme.FullScreen" >
+           <meta-data android:name="android.support.PARENT_ACTIVITY"
+                      android:value=".XONImageGridActivity" />
+        </activity>
+        <activity
+           android:name=".XONImageGridActivity"
+           android:label="@string/my_xpresson"
+           android:screenOrientation="nosensor" 
+           android:theme="@android:style/Theme.NoTitleBar">
+        </activity>
+    </application>
+
+</manifest>

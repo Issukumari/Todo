@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Learn ABCD</string>
+    <string name="title_activity_image_list">ImageList</string>
+
+    <string name="enter_email_id">Email Id</string>
+    <string name="enter_password">Password</string>
+
+    <string name="enter_valid_id">Enter valid Email Id</string>
+    <string name="enter_valid_password">Enter valid password</string>
+    <string name="enter_valid_name">Enter valid Name</string>
+    <string name="enter_valid_mobileNo">Enter valid Mobile No</string>
+
+    <string name="sign_in_fragment">Sign In</string>
+    <string name="sign_up_fragment">Sign Up</string>
+
+    <string name="enter_Name"> Name</string>
+    <string name="enter_Mobile">Mobile Number</string>
+
+    <string name="gcm_send_message">Token retrieved and sent to server! You can now use gcmsender to
+        send downstream messages to this app.</string>
+
+    <string name="token_error_message">An error occurred while either fetching the InstanceID token,
+        sending the fetched token to the server or subscribing to the PubSub topic. Please try
+        running the sample again.</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8914361273032160/7435741132</string>
+
+    <string name="invitation_deep_link">http://example.com/offer/five_dollar_offer</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_content_list">ContentListActivity</string>
+    <string name="title_activity_display_item">DisplayItemActivity</string>
+    <string name="title_activity_display_number">DisplayNumber</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

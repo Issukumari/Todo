@@ -1,0 +1,117 @@
+<RelativeLayout 
+   xmlns:android="http://schemas.android.com/apk/res/android"
+   xmlns:tools="http://schemas.android.com/tools"
+   android:id="@+id/layout_root"
+   android:layout_width="match_parent"
+   android:layout_height="match_parent"
+   style="@style/XONInnerBodyBackground"
+>
+
+   <RelativeLayout 
+      xmlns:android="http://schemas.android.com/apk/res/android"
+      android:id="@+id/top_control_panel"
+      android:orientation="horizontal"
+      android:layout_width="fill_parent"
+      android:layout_height="50dip" 
+      android:layout_alignParentTop="true"
+      android:layout_alignParentLeft="true"
+      android:layout_centerHorizontal="true"
+      android:gravity="center_vertical"
+      style="@style/XONFullViewTitleBackground"
+   >    
+      <Button
+         android:id="@+id/xon_home_btn" 
+         style="@style/XONHomeButton"
+         android:layout_alignParentTop="true"
+         android:layout_alignParentLeft="true"
+         android:layout_width="wrap_content" 
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="0dip"
+         android:paddingTop="4dip"
+         android:paddingBottom="4dip"
+         android:paddingLeft="8dip"
+         android:paddingRight="8dip"
+         android:drawableTop="@drawable/xon_logo"
+         android:text="@string/home"
+         android:contentDescription="@string/home"    
+      />    
+      <Button
+         android:id="@+id/my_xpresson_btn" 
+         style="@style/XONButton"
+         android:layout_width="wrap_content" 
+         android:layout_height="wrap_content"
+         android:layout_alignParentTop="true"
+         android:layout_marginRight="0dip"
+         android:layout_toRightOf="@id/xon_home_btn"
+         android:paddingTop="4dip"
+         android:paddingBottom="4dip"
+         android:paddingLeft="8dip"
+         android:paddingRight="8dip"
+         android:drawableTop="@drawable/my_xpresson"
+         android:text="@string/myXON"
+         android:contentDescription="@string/myXON_tip"    
+      />    
+      <Button
+         android:id="@+id/enhance_image_btn" 
+         style="@style/XONButton"
+         android:layout_width="wrap_content" 
+         android:layout_height="wrap_content"
+         android:layout_alignParentTop="true"
+         android:layout_marginRight="0dip"
+         android:layout_toRightOf="@id/my_xpresson_btn"
+         android:paddingTop="4dip"
+         android:paddingBottom="4dip"
+         android:paddingLeft="8dip"
+         android:paddingRight="8dip"
+         android:drawableTop="@drawable/image_enhance"
+         android:text="@string/image_enhance_full"
+         android:contentDescription="@string/image_enhance_full"    
+      />    
+      <Button
+         android:id="@+id/image_share_btn" 
+         style="@style/XONButton"
+         android:layout_width="wrap_content" 
+         android:layout_height="wrap_content"
+         android:layout_alignParentTop="true"
+         android:layout_marginRight="0dip"
+         android:layout_toRightOf="@id/enhance_image_btn"
+         android:paddingTop="4dip"
+         android:paddingBottom="4dip"
+         android:paddingLeft="8dip"
+         android:paddingRight="8dip"
+         android:drawableTop="@drawable/save_share"
+         android:text="@string/share"
+         android:contentDescription="@string/share"    
+      />          
+   </RelativeLayout>
+   <RelativeLayout 
+      xmlns:android="http://schemas.android.com/apk/res/android"
+      android:id="@+id/pager_view"
+      android:orientation="horizontal"
+      android:layout_width="fill_parent"
+      android:layout_height="fill_parent" 
+      android:layout_centerHorizontal="true"
+      android:gravity="center_vertical"
+      android:layout_below="@id/top_control_panel"
+   >    
+      <ProgressBar
+         android:id="@+id/progress_bar"
+         style="?android:attr/progressBarStyleLarge"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:visibility="invisible"
+         android:layout_centerHorizontal="true"
+         android:layout_centerVertical="true"/>
+       	<!-- 
+	   ViewManager is the Layout manager that allows the user to flip left and right 
+	   through pages of data. Supply an implementation of a PagerAdapter to generate 
+	   the pages that the view shows. 
+	  -->
+		<com.xpresson.android.XONViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+		    android:id="@+id/pager"
+		    android:layout_width="fill_parent"
+		    android:layout_height="fill_parent" >
+		</com.xpresson.android.XONViewPager>
+   </RelativeLayout>
+</RelativeLayout>
+		

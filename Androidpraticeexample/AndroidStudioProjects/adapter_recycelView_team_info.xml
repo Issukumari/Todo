@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="7dp"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
+    card_view:cardElevation="3sp"
+    card_view:cardUseCompatPadding="true">
+
+    <RelativeLayout
+        android:layout_margin="7dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:text="@string/team_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="13dp"
+            android:layout_marginStart="7dp"
+            android:layout_marginTop="7dp"
+            android:textSize="25sp"
+            android:id="@+id/team_name"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:text="owner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/team_name"
+            android:layout_alignLeft="@+id/team_name"
+            android:layout_alignStart="@+id/team_name"
+            android:layout_marginTop="@dimen/margin_team"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:id="@+id/owner" />
+
+        <TextView
+            android:text="owner name form json"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/team_name"
+            android:layout_marginTop="@dimen/margin_team"
+            android:layout_marginLeft="80dp"
+            android:textColor="@color/black"
+            android:id="@+id/teamOwnerName" />
+
+        <TextView
+            android:text="team Captian name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/captian"
+            android:layout_alignLeft="@+id/teamOwnerName"
+            android:layout_alignStart="@+id/teamOwnerName"
+            android:textColor="@color/black"
+            android:id="@+id/captianName" />
+
+        <TextView
+            android:text="coach"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/captian"
+            android:textStyle="bold"
+            android:layout_alignLeft="@+id/captian"
+            android:layout_alignStart="@+id/captian"
+            android:layout_marginTop="@dimen/margin_team"
+            android:textColor="@color/black"
+            android:id="@+id/coach" />
+
+        <TextView
+            android:text="coach Name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/coach"
+            android:layout_alignLeft="@+id/captianName"
+            android:layout_alignStart="@+id/captianName"
+            android:textColor="@color/black"
+            android:id="@+id/coachName" />
+
+        <TextView
+            android:text="venue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/venue"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_below="@+id/coach"
+            android:layout_alignLeft="@+id/coach"
+            android:layout_alignStart="@+id/coach"
+            android:layout_marginTop="@dimen/margin_team" />
+
+        <TextView
+            android:text="venue Name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/venue"
+            android:layout_alignLeft="@+id/coachName"
+            android:layout_alignStart="@+id/coachName"
+            android:textColor="@color/black"
+            android:id="@+id/venueName" />
+
+        <TextView
+            android:text="captian"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/captian"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginTop="@dimen/margin_team"
+            android:layout_below="@+id/owner"
+            android:layout_alignLeft="@+id/owner"
+            android:layout_alignStart="@+id/owner" />
+
+    </RelativeLayout>
+
+
+</android.support.v7.widget.CardView>
+

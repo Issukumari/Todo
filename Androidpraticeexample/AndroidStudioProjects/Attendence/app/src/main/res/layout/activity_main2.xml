@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <RelativeLayout
+        android:id="@+id/layout"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent">
+
+        <EditText
+            android:layout_marginTop="100dp"
+            android:onClick="slideUp"
+            android:id="@+id/edittext1"
+            android:visibility="invisible"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:scrollHorizontally="true" />
+
+        <EditText
+            android:layout_marginTop="200dp"
+            android:onClick="slideUp"
+            android:id="@+id/edittext"
+            android:visibility="visible"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:scrollHorizontally="true" />
+
+        <ListView
+            android:id="@+id/listView"
+            android:visibility="invisible"
+            android:layout_below="@+id/edittext1"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"></ListView>
+
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+
+    <android.support.v7.widget.AppCompatTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/fragmentlistview"
+        android:textSize="20dp"/>
+
+    <android.support.v7.widget.AppCompatEditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/fragmentlistview_EdittextView"
+        android:layout_marginTop="20dp"
+        android:textSize="20dp"
+        android:textStyle="italic"
+        android:textColor="#ff00"/>
+    <android.support.v7.widget.AppCompatEditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/fragmentlistviews_EdittextView"
+        android:layout_marginTop="20dp"
+        android:textSize="20dp"
+        android:textStyle="italic"
+        android:textColor="#ff00"/>
+
+
+<!--</FrameLayout>-->
+</LinearLayout>

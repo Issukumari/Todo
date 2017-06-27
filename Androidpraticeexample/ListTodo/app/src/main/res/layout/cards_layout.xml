@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:tag="cards main container">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_view"
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        card_view:cardBackgroundColor="#00ffff"
+        card_view:cardCornerRadius="10dp"
+        card_view:cardElevation="5dp"
+        card_view:cardUseCompatPadding="true"/>
+
+
+        <android.support.v7.widget.AppCompatImageView
+            android:id="@+id/imagelisttodo"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:orientation="horizontal"
+                android:background="@drawable/todoist" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/textViewName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="120dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:text="Android Name"
+            android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+         <android.support.v7.widget.AppCompatTextView
+             android:id="@+id/textViewDescription"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_below="@+id/textViewName"
+             android:layout_marginLeft="120dp"
+             android:layout_gravity="center_horizontal"
+             android:layout_marginTop="10dp"
+             android:text="Android Version"
+             android:textAppearance="?android:attr/textAppearanceMedium"/>
+
+
+
+          </RelativeLayout>
+
+
+

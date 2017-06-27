@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Notes"
+            android:icon="@drawable/bridgelabz"
+            android:title="@string/Notes" />
+        <item
+            android:id="@+id/nav_Reminders"
+            android:icon="@drawable/loginimage"
+            android:title="@string/Reminders" />
+        <item
+            android:id="@+id/nav_Createnewlabel"
+            android:icon="@drawable/pencil"
+            android:title="@string/Createnewlabel" />
+
+        <item
+            android:id="@+id/nav_Archive"
+            android:icon="@drawable/regimg"
+            android:title="@string/Archive" />
+
+        <item
+            android:id="@+id/nav_Deleted"
+            android:icon="@drawable/splash"
+            android:title="@string/Deleted" />
+        <item
+            android:id="@+id/nav_Settings"
+            android:icon="@drawable/splash"
+            android:title="@string/Settings" />
+
+    </group>
+
+
+</menu>

@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d7a0da7-5554-43e5-aa15-1ab114f924b4" name="Default" comment="">
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/eb/50396e87a5fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/ad/b0631f8013fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/stopwatch.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Toss.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/6f/a0073f47c7f90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Anagram.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/ed/c05227b154fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/7a/2000d0f2a5fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.root/65.tree" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/45/c043716295fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/35/20d1f3368dfa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/ff/309f73620dfb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/7c/e07e6b8b95f900161ce5b600914a1c07" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/97/601c4a27b4fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/29/509be57a95f900161ce5b600914a1c07" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/48/7078e34ec6f90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/4b/5062de7551fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/bb/402a0632affc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/6d/10adc2e093fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/13/f06a4cd176fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/95/804aa635a6fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/eb/50d7ddcd95f900161ce5b600914a1c07" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/3e/403d2c402dfb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/50/e0e77386b2fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/56/507d37145dfb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/aa/90ef86ca13fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_2o_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/b9/80dbe0c7c3f90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/gambler.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/d3/807b036846fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_2j.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/13/106f4f9d46fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/54/40d2cf8295f900161ce5b600914a1c07" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/a4/508b5ae7c0fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/76/20e623d5a2fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/da/00740d0e4cfa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/f3/d0318122c3f90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/b3/c07ce6be76fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/6d/b080bd2194fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/d5/80cf65fa76fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/29/f0fdd834bdf90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/a/e0740ad98efa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/d9/00df369995fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/ff/602c909e99f900161ce5b600914a1c07" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/smita/.indexes/e4/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/d7/806c6e3b7cfa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_2n.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/c6/40511033d0f90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/de/a01a47b84dfb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/e0/7063dbb68efa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/55/00ff673aabfc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/fd/70d13604bff90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/b8/a06181d059fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/smita/.syncinfo.snap" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/e4/703d6c304bfa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/48/d00f2a6855fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/cb/9029cac45bfa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/c2/2059f41e95fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/4e/10a9f9cfaef90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/f9/50b76f6e7dfa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/c2/40c94070abfc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/1f/c0ab3c2346fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/6f/c0a38a024efb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments_2i" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/cc/c0e958cb0cfb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/79/b07979b310fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_2m.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/13/f0cb23e895fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/77/90e7335ab5fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/c3/d003570546fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/c5/e0b2cfb215fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/f/3049ac2db3fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/8.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/ac/008c66e184fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/9f/50ad2873b3fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/88/0026462d92fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/be/304650d9acfc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/FindNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/63/e022cf6dbff90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/34/50f163f116fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/60/80297f6c4ffb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/56/80b6e72aa9fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/power.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/91/d0448976b0fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_2k_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/7a/503788149af900161ce5b600914a1c07" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/5f/d009d6fe95fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/5c/2026d22363fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/c/c001faf8abfc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/87/0068f6f04efb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/fc/102fe40930fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/1/50042c30b5fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/8b/405e72369ff900161ce5b600914a1c07" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/c/408b6685acf90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/45/70b97224b4fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/c5/704aa5ceeff80016171aaecef5d788a5" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/c9/20ddbd5c9cf900161ce5b600914a1c07" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/5a/b07136bc57fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/factors.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/smita/.indexes/7/81/6a/7c/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/57/c04c46979cf900161ce5b600914a1c07" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/51/e0ddc74eaafc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/76/d0f1e28da6fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/3f/d0ebb0bcaafc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/33/9045a554d0f90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Coupon.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/ac/40a0b9f055fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/5b/20c055b383fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/ea/b05671d046fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/3a/90c81279c0f90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/d/b0e075369ff900161ce5b600914a1c07" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/9/b0c67f018efa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/b/50b53b33b5fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/7c/e0d09d1012fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/87/b0fd15404ffb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/a2/f07ecf8da8fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/26/40616c3fd0f90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/b/407dc9ac5cfa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/f5/30df40cbeef80016171aaecef5d788a5" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/68/90df173f47fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/26/9007cc774bfa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/5e/60e11d0b4dfb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/b3/d085a555b5fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.m2e.core/nexus/4830816d158cc11f17535896ee3ec82b/segments_7c" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/5e/a0f1db268dfa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/b9/d0049e6747fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/a2/7077bfe345fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/9b/20cb1a82abfc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/7d/30a0292ab5fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/5/403c018376fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/3c/80b2d3bd4dfb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/TicTac.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/c7/109ec7704efb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/93/50624f3d4cfa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/98/d0a3d74251fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/21/e0f08c598ef900161ce5b600914a1c07" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/17/3018f362a9fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Leap.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/10/a09d5d6b33fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.recommenders/index/http___download_eclipse_org_recommenders_models_neon_/write.lock" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/54/e0cf5fc376fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/f4/604389beacfc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/a0/9015c563a6fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/smita/.indexes/e4/e3/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/14/00e99030a7fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/69/d0f765ee4bfa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/56/a058bac68efa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments_5b" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/df/600cdc1dc6f90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/smita/.markers" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/SumOfInteger.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/5f/b094ea0c95fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/7a/a0501461aafc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/87/9072c096aaf90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/36/60b64d3498fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/e3/f05be85e15fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/fe/e00e9aa47bfa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/power.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/33/603ce8d3a3fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/c8/302735de4dfa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/e5/e08bcee6a8fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/d7/208ff5cdc3f90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/f7/f04873584efb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/93/e066473814fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/9b/101169ff50fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_2j_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/f0/10b3a79a53fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/5b/5059f0a144fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/fa/709a3753b2fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/65/201cf266b2fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/8e/30cf1acd76fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/f7/c0a075fb95fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/2a/90d0db332efb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/1c/7055608283fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/71/f0fca141a4fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/24/70a437d6c0fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/8b/6009263db2fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/cf/b091d91658fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.jdt.core/115785234.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/65.snap" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/26/20e6d4e4a5fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/94/e0ea16434dfa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/8c/a0ecec9d4bfa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/67/f0f753d853fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/7/60718bda53fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/25/102ac93b55fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/ef/b04841b815fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/1a/80e80359b4fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/harmonic.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/fc/3007948255fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/b7/90671e0b92fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/83/904b45e188fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/f9/40c0581db3fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/f9/504bdaf523fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/9a/509c42e9acfc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/2f/d00b1ca84efb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/94/20caaaa1aaf90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/79/3056870380f900161ce5b600914a1c07" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/d4/f0ec168c4cfa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/20/504eba9c72fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/95/502a3577b2fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/b3/700ccb32a5fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/4b/80a4ac2a94fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/53/209ae6a9c3f90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/e5/a04d13abeff80016171aaecef5d788a5" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/2/d0ef83054cfa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/a1/105a73f891fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/factors.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/e8/20bc209accf90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/0/7062cbe646fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/42/808bf095c2f90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/47/60151ac74dfa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/19/508c07334cfa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/f8/f080bfb2affc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/4a/a0e6705cb2fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/60/908e128b47fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/2f/5040899fc3f90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/19/50edda1e9bf900161ce5b600914a1c07" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/ba/50d57440a9fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/7a/504904fbaefc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/f3/8092ad76acfc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/f9/e09373da64fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/9c/802c009972fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/c3/70dd8b984ffb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/ba/3077c277a7fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/7f/f0c0d66bc2fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/72/c09daa7c5ffb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/smita/.indexes/e4/81/6a/7c/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/43/80870d4facfc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/9.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/66/70376f49aef90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/0/70d03cb553fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/96/600ba204a9fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/23/b0340d9aacfc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/b2/d0209c41b5fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/df/00ae6acb51fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_2l.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/e3/60f596dfa3fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/b6/20276d6d4bfa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/7a/e05eb70094fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/91/f07bdeddaef90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_2l_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/10/e06951e031fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_2k.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/1a/c0e654d8adf90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/array2D.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/b3/40596efb4ffb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/53/40e750b64dfa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Leap.class" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/2e/e0e1d88316fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/e6/f0cbbd374dfa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/4f/d0dd6967aafc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/c4/00f0ea5fa3fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/87/30bc286895fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/harmonic.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/a2/40275929a9fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/a5/70bd1e7a88fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/5/a0a317a9bef90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/ac/e03a9df144fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/e9/90c1813743fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/dc/b02123bceff80016171aaecef5d788a5" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/24/a0eccedeb2fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/28/a060440b96f900161ce5b600914a1c07" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/54/10c4eaf193fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/1e/c0d61c8f48fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_2o.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/1a/203d711f4cfb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/42/e0235f8791fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/93/50b84c44a9fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/69/2001039e55fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/a8/30b84a33affc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/83/8035d904cbf90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/e3/40ca8e7baef90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/75/60a9cf4e26fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_2n_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/16/d035bd3aa9fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/2f/300208d50cfb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/18/803f943147fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/96/300e2fef8dfa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/23/c0b06c4fa7fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/76/506f208511fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/37/e078b7ff84fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/4b/b0db84da95fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/72/90523bd1a8fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/32/80874ecb22fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/3/1023464daefc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/ac/b047d1b04dfa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/f4/e0e9b767c2fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/3/e0840b90abfc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/46/20ee2ffeabfc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/85/905dbdac83fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/a0/e00c0ba5affc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/b7/80b253aa31fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_2i_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/smita/.indexes/af/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/f9/9017914a71fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/48/70b3aec093fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/85/20a2c6f74bfa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_2m_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/a7/50db27aca7fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_2i.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/f3/30135b4326fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/33/f01a687daaf90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/8a/f0291f19adf90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/47/00bb89c1eff80016171aaecef5d788a5" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/91/805e844a8ef900161ce5b600914a1c07" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/38/00eb345c31fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/98/3081da8113fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/ae/9015c94095fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/37/407a9c8f49fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/smita/.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/f5/90424d3d14fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/33/80ae65f295fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/a6/204633d495fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/d3/70644c924bfa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/37/60135f79abfc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/4e/c0a6edd295fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/a7/20afe7b15dfb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Toss.java" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/ac/b08488258ffa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/71/b0ea9e0574fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/9/f02939ec91fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/5a/801fc60c13fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/ac/e023391614fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/1f/f06a677e49fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/7/00314f45a5fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/c7/d0ecf1e4acf90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/c3/707b05b4aff90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/3b/20ef9696abfc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/40/50cd7136a5fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/2a/e0a22e8a26fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/45/40bac7f4acf90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/e4/50c8b99db4fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/73/907d9973eff80016171aaecef5d788a5" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/5f/a07dd3fda8fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/47/3008c343a4fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/7e/b096e628a6fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/89/7094b318aefc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_2p.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/6f/e05b100c46fb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/8a/90c36e8aaffc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/8e/90d3ba7bbff90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/10/a08cd390a7fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/35/10c5b42996fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/e0/e0dcaad593fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/f8/00738a27affc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/smita/.indexes/e4/81/6a/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/30/50ff1fdb4afa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/6d/102ba2068efa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/ec/108902c688fa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/48/20e3820a4bfa00161b8cfaf1f0bd97c1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/13/6039adcaacf90016194994f32c73dfe3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/8b/8068e60eb5fc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/53/100783064efb00161122fca00ae4df1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/8b/c0f7ca97aafc001616efe16ad78acb82" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.history/df/406cd0ffcdf90016194994f32c73dfe3" afterPath="" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/crud-operation/.markers.snap" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/crud-operation/.markers.snap" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.syncinfo.snap" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.syncinfo.snap" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/game suggestion/.syncinfo.snap" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/game suggestion/.syncinfo.snap" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/0.png" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/0.png" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/smita/2017/2/9/refactorings.history" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/smita/2017/2/9/refactorings.history" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.m2e.core/nexus/4830816d158cc11f17535896ee3ec82b/segments.gen" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.m2e.core/nexus/4830816d158cc11f17535896ee3ec82b/segments.gen" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.recommenders/caches/identified-project-coordinates.json" afterPath="$USER_HOME$/springPractice/.recommenders/caches/identified-project-coordinates.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/hibernate-practice" afterPath="$USER_HOME$/springPractice/hibernate-practice" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/4.png" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/4.png" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/6.png" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/6.png" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/crud-operation/.syncinfo.snap" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/crud-operation/.syncinfo.snap" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.syncinfo.snap" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.syncinfo.snap" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.markers.snap" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/RemoteSystemsTempFiles/.markers.snap" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments.gen" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments.gen" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/InventoryManagement/.markers.snap" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/InventoryManagement/.markers.snap" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/smita" afterPath="$USER_HOME$/springPractice/smita" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/InventoryManagement/org.eclipse.jdt.core/state.dat" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/InventoryManagement/org.eclipse.jdt.core/state.dat" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/smita/2017/2/9/refactorings.index" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/smita/2017/2/9/refactorings.index" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/InventoryManagement/.syncinfo.snap" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/InventoryManagement/.syncinfo.snap" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/crud-operation" afterPath="$USER_HOME$/springPractice/crud-operation" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/3.png" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/3.png" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments.gen" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments.gen" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.markers.snap" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/Servers/.markers.snap" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/1.png" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/1.png" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/GameCardProgram/.markers.snap" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/GameCardProgram/.markers.snap" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/GameCardProgram" afterPath="$USER_HOME$/springPractice/GameCardProgram" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/5.png" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/5.png" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/GameCardProgram/.syncinfo.snap" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/GameCardProgram/.syncinfo.snap" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/game suggestion/org.eclipse.jdt.core/state.dat" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/game suggestion/org.eclipse.jdt.core/state.dat" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/game suggestion/.markers.snap" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.core.resources/.projects/game suggestion/.markers.snap" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/version.ini" afterPath="$USER_HOME$/springPractice/.metadata/version.ini" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.log" afterPath="$USER_HOME$/springPractice/.metadata/.log" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterPath="$USER_HOME$/springPractice/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" />
+    </list>
+    <ignored path="Swipe.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Swipe" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_row_layout.xml" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/bridgelabz/app/com/swipe/DataAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/bridgelabz/app/com/swipe/dialog.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/ic_edit_white.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/ic_delete_white.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/dialog_layout.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/bridgelabz/app/com/swipe/FloatingActionButton.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/bridgelabz/app/com/swipe/MainActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="61" />
+    <option name="y" value="52" />
+    <option name="width" value="1305" />
+    <option name="height" value="716" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="device.picker.selection" value="Nexus_5_API_23" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.packageName">
+      <recent name="bridgelabz.app.com.swipe" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="bridgelabz.app.com.swipe" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.app">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Native>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Java />
+      <Hybrid>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Native>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Java />
+      <Hybrid>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method>
+        <option name="Make" enabled="false" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="app" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Native>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Java />
+      <Hybrid>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.app" />
+    </list>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d7a0da7-5554-43e5-aa15-1ab114f924b4" name="Default" comment="" />
+      <created>1491227523960</created>
+      <option name="number" value="Default" />
+      <updated>1491227523960</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="61" y="52" width="1305" height="716" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24882995" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>

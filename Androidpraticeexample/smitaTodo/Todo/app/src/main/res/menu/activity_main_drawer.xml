@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/notes"
+            android:icon="@drawable/notes"
+            android:title="Notes" />
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/profile"
+            android:title="Logout" />
+        <item
+            android:id="@+id/reminder"
+            android:icon="@drawable/reminder"
+            android:title="Reminder" />
+        <item
+            android:id="@+id/archive"
+            android:icon="@drawable/archive"
+            android:title="Archive" />
+
+    </group>
+
+    <item android:title="Communicate">
+
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@android:drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/about"
+                android:icon="@drawable/profile"
+                android:title="About Us" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/d"
+   android:orientation="vertical"
+    tools:context="fundoohr.com.todoapp.MainActivity">
+
+
+        <ImageView
+        android:id="@+id/img1"
+        android:layout_width="121dp"
+        android:layout_height="121dp"
+            android:layout_marginLeft="120dp"
+            android:backgroundTint="#00BFFF"
+        android:background="@drawable/bridgelabz"/>
+
+    <TextView
+    android:id="@+id/textview2"
+    android:layout_width="match_parent"
+        android:paddingTop="10dp"
+        android:layout_height="wrap_content"
+    android:text="Email_Id"
+        android:textColor="#FF4081"
+    android:textSize="20dp"/>
+
+
+    <EditText
+        android:id="@+id/edittext1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+
+        <TextView
+            android:id="@+id/textview3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="password"
+            android:textColor="#FF4081"
+
+            android:textSize="20dp"/>
+
+        <EditText
+            android:id="@+id/edittext2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            />
+
+
+        <TextView
+            android:id="@+id/textview4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Forgot_pass"
+            android:textColor="#FF4081"
+
+            android:textSize="20dp"/>
+    <Button
+android:id="@+id/btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="140dp"
+        android:text="Login "
+        android:textColor="#FF4081"
+
+        android:onClick="login"
+        android:textSize="20dp"/>
+
+<Button
+    android:id="@+id/btn2"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Create_account"
+
+    android:onClick="Register"
+    android:textSize="20dp"
+    android:layout_marginLeft="100dp"/>
+
+        <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="64dp"
+            android:layout_marginLeft="20dp"
+        android:background="@drawable/tt"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="43dp"
+            android:background="@drawable/u"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="20dp"/>
+
+</LinearLayout>
